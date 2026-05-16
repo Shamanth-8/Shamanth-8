@@ -68,15 +68,7 @@ I work at the intersection of **AI engineering, data science, and machine learni
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Shamanth-8&theme=tokyonight&hide_border=true&background=00000000" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shamanth-8&theme=tokyonight&hide_border=true" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamanth-8&theme=tokyonight&hide_border=true&background=00000000&include_all_commits=true&count_private=true&layout=compact" height="165"/>
-</p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Shamanth-8&icon=0&color=6"/>
-  </a>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Shamanth-8&theme=tokyonight&hide_border=true&count_private=true&layout=compact" height="165"/>
 </p>
