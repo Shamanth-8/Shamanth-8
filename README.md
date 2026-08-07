@@ -1,9 +1,7 @@
 <h1 align="center">Shamanth Patel</h1>
-
 <p align="center">
   AI Engineer &nbsp;·&nbsp; Data Science &nbsp;·&nbsp; Machine Learning
 </p>
-
 <p align="center">
   <a href="mailto:theshampatel@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
@@ -11,6 +9,14 @@
   &nbsp;
   <a href="https://www.linkedin.com/in/shamanth-patel-ba216a386">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://portfolio-shamanthpatel8.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/ShamanthAarav">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/>
   </a>
 </p>
 
